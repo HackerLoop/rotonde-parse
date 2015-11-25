@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rotonde-client": "github:hackerloop/rotonde-client.js"
+    "is-online": "^5.0.1",
+    "lodash": "^3.10.1",
+    "node-persist": "0.0.8",
+    "parse": "^1.6.9",
+    "rotonde-client": "github:hackerloop/rotonde-client.js",
+    "sqlite3": "^3.1.1"
   }
 }

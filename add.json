@@ -1,0 +1,15 @@
+{
+  "type": "action",
+  "payload": {
+    "identifier": "PARSE_ADD",
+    "data": {
+      "reqname": "POUET_REQ",
+      "class": "PouetCol",
+      "object": {
+        "field1": "value1",
+        "field2": "value2",
+        "field3": 42
+      }
+    }
+  }
+}
